@@ -17,21 +17,16 @@ Para instalar o projeto, siga estas etapas:
 Linux e macOS:
 
 ```bash
-git clone https://github.com/alextfonseca/alextfonseca.github.io.git
-$ cd alextfonseca.github.io-main
+git clone https://github.com/alextfonseca/reactjs-refactoring-classes-ts.git
+$ cd reactjs-refactoring-classes-ts
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/alextfonseca/alextfonseca.github.io.git
-$ cd alextfonseca.github.io-main
+git clone https://github.com/alextfonseca/reactjs-refactoring-classes-ts.git
+$ cd reactjs-refactoring-classes-ts
 ```
-
-## 🧾 Usando o projeto
-
-# <a href="https://alextfonseca.github.io">Acesse o projeto</a>
-
 ## 🧑‍💻 Criador
 
 <table>
