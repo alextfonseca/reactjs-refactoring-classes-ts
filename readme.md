@@ -17,15 +17,19 @@ Para instalar o projeto, siga estas etapas:
 Linux e macOS:
 
 ```bash
-git clone https://github.com/alextfonseca/reactjs-refactoring-classes-ts.git
+$ git clone https://github.com/alextfonseca/reactjs-refactoring-classes-ts.git
 $ cd reactjs-refactoring-classes-ts
+$ yarn / npm i
+$ yarn start / npm start & yarn server / npm server
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/alextfonseca/reactjs-refactoring-classes-ts.git
+$ git clone https://github.com/alextfonseca/reactjs-refactoring-classes-ts.git
 $ cd reactjs-refactoring-classes-ts
+$ yarn / npm i
+$ yarn start / npm start & yarn server / npm server
 ```
 ## 🧑‍💻 Criador
 
